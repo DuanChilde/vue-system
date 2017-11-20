@@ -30,7 +30,7 @@ export default {
   name: 'Login',
   data () {
     return {
-      msg: '文件管理系统',
+      msg: '爱分享',
       form: {
         username: '',
         password: '',
